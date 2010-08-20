@@ -8,4 +8,4 @@ Introduce some general ideas of this project.
 = Details =
 
 === How do we highlight the code ===
-This page introduces several ways to highlight programming language: [http://www.webdesignbooth.com/9-useful-javascript-syntax-highlighting-scripts/ highlight methods], among them i like [http://shjs.sourceforge.net SHJS] most.
+This page introduces several ways to highlight programming language: [http://www.webdesignbooth.com/9-useful-javascript-syntax-highlighting-scripts/ highlight methods], among them i like [http://shjs.sourceforge.net SHJS] most, it does not rely on many css, js, the integration method is very neat.
